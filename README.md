@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Swift development involving insufficient error handling when decoding JSON data fetched using URLSession. The `bug.swift` file shows the initial problematic code, while `bugSolution.swift` offers an improved version with more informative error handling.
